@@ -1,7 +1,7 @@
 import "./App.css";
 
 function App() {
-  return <>Hello world</>;
+  return <div className="text-lg font-bold">Hello world</div>;
 }
 
 export default App;
