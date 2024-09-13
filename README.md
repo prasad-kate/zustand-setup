@@ -1,1 +1,1 @@
-This project is built with React, Vite, and TypeScript, and it’s set up to use Tailwind CSS for easy and efficient styling. It demonstrates how to configure Tailwind CSS to create a responsive and modern user interface while leveraging TypeScript for type safety.
+This project is built with React, Vite, and TypeScript, and it’s set up to use Tailwind CSS for easy and efficient styling. It demonstrates how to configure Zustand for state management to create a responsive and modern user interface while leveraging TypeScript for type safety.
